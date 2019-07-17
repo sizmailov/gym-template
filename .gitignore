@@ -1,0 +1,4 @@
+output.*
+diff.*
+.directory
+*.zip
